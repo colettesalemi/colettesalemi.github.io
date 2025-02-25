@@ -33,8 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "scholar.google.ca/ciations?user=_0uF6O8AAAAJ&hl=en&oi=ao""
-  
+  googlescholar    : "scholar.google.ca/citations?user=_0uF6O8AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6875-1546"
   semantic         : # URL
@@ -132,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
