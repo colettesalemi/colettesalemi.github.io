@@ -23,7 +23,7 @@ repository               : "colettesalemi/colettesalemi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Colette Salemi"
   pronouns         : "she/her"  
   bio              : "Applied microeconomist focused on development and environmental topics"
