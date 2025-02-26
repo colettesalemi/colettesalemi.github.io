@@ -6,28 +6,14 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Presentations"
-<<<<<<< HEAD
     url: /talks/    
-=======
-    url: /presentations/    
->>>>>>> 5a7acea9fa6e1cd37d9e965e9af41b87e3936e5f
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Mentorship"
-<<<<<<< HEAD
-    url: /portfolio/
-    
   - title: "CV"
     url: /files/Colette_General_CV.pdf
-=======
-    url: /mentorship/
     
-  - title: "CV"
-    url: /cv/
-    
->>>>>>> 5a7acea9fa6e1cd37d9e965e9af41b87e3936e5f
