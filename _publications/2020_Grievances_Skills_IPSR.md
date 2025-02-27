@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 and Conflict"
+title: "Grievances or skills? The effect of education on youth attitudes and political participation in Egypt and Tunisia"
 collection: publications
 category: manuscripts
 permalink: /publication/2020_Grievances_Skills_IPSR
