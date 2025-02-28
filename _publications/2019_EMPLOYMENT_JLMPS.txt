@@ -1,0 +1,11 @@
+---
+title: "The structure of employment and job creation in Jordan: 2010-2016"
+collection: publications
+category: book_chapter
+permalink: /publication/2021_JOBS_JLMPS
+date: 2019-01-01
+venue: 'The Jordanian labor market: Between fragility and resilience'
+citation: 'Assaad, Ragui & Colette Salemi. (2019). &quot;The structure of employment and job creation in Jordan: 2010-2016.&quot; <i>The Jordanian labor market: Between fragility and Resilience (R. Assaad and C. Krafft eds.).</i> Oxford University Press.'
+---
+
+

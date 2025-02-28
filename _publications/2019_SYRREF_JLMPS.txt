@@ -1,0 +1,11 @@
+---
+title: "Syrian Refugees in Jordan"
+collection: publications
+category: book_chapter
+permalink: /publication/2021_SYRREF_JLMPS
+date: 2019-01-01
+venue: 'The Jordanian labor market: Between fragility and resilience'
+citation: 'Krafft, Caroline, Maia Sieverding, Colette Salemi, and Caitlyn Keo. (2019). &quot;Syrian Refugees in Jordan.&quot; <i>The Jordanian labor market: Between fragility and Resilience (R. Assaad and C. Krafft eds.).</i> Oxford University Press.'
+---
+
+
