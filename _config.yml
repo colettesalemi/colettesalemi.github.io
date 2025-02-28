@@ -78,14 +78,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  book chapters:
-    title: 'Book chapters and permanent working papers'
   manuscripts:
-    title: 'Peer Reviewed papers'
+    title: 'Peer reviewed papers'
   working_paper:
-    title: 'Working papers'    
-  #conferences:
-   # title: 'Conference Papers'
+    title: 'Working papers' 
+  in_progress:
+    title: 'Works in progress'   
+  book_chapter:
+    title: 'Book chapters and permanent working papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
