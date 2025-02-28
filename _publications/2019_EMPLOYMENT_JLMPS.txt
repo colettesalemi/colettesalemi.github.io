@@ -1,11 +1,11 @@
 ---
-title: "Services for Syrian refugee children and youth in Jordan: Forced displacement, foreign aid, and vulnerability"
+title: "The structure of employment and job creation in Jordan: 2010-2016"
 collection: publications
 category: book_chapter
-permalink: /publication/2018_SCAN_ERF
-date: 2018-01-01
-venue: 'The Economic Research Forum Working Paper Series'
-citation: 'Salemi, Colette, Jay Bowman, and Jennifer Compton. (2018). &quot;Services for Syrian refugee children and youth in Jordan: Forced displacement, foreign aid, and vulnerability.</i> Economic Resaerch Forum Working aper Series 1188'
+permalink: /publication/2018_EMPLOYMENT_JLMPS
+date: 2019-01-01
+venue: 'The Jordanian labor market: Between fragility and resilience'
+citation: 'Assaad, Ragui & Colette Salemi. (2019). &quot;The structure of employment and job creation in Jordan: 2010-2016.</i> Oxford University Press'
 ---
 
 
