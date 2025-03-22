@@ -1,0 +1,10 @@
+---
+title: "Does perceived labor market competition increase prejudice between refugees and their local hosts? Evidence from Uganda and Ethiopia"
+collection: publications
+category: manuscripts
+permalink: /publication/2025_PREJUDICE_JDE
+date: 2025-01-01
+venue: 'Journal of Development Economics'
+paperurl: https://www.sciencedirect.com/science/article/pii/S030438782500032X
+citation: 'Bousquet, Julie, Anna Gasten, Mark Marvin Kadigo, Jean-Francois Maystadt, & Colette Salemi. (2025). &quot;Does perceived labor market competition increase prejudice between refugees and their local hosts? Evidence from Uganda and Ethiopia.&quot; <i>Journal of Development Economics</i> 175.'
+---
