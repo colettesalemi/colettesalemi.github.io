@@ -1,9 +1,8 @@
 ---
-title: "Bousquet, Julie, Anna Gasten, Mark Marvin Kadigo, Jean-Francois Maystadt, & Colette Salemi. (2025). &quot;Does perceived labor market competition increase prejudice between refugees and their local hosts? Evidence from Uganda and Ethiopia.&quot; <i>Journal of Development Economics</i> 175."
+title: "Bousquet, Julie, Anna Gasten, Mark Marvin Kadigo, Jean-Francois Maystadt, &amp; <strong>Colette Salemi</strong>. (2025). &quot;Does perceived labor market competition increase prejudice between refugees and their local hosts? Evidence from Uganda and Ethiopia.&quot; <i>Journal of Development Economics</i> 175."
 collection: publications
 category: manuscripts
 permalink: /publication/2025_PREJUDICE_JDE
 paperurl: https://www.sciencedirect.com/science/article/pii/S030438782500032X
 talkurl: https://www.youtube.com/watch?v=2Mp5FmJ3pOA&t=1931s&ab_channel=JointDataCenteronForcedDisplacement
-
 ---
