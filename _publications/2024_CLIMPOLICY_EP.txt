@@ -1,11 +1,9 @@
 ---
-title: "Do economic trade-offs matter in climate policy support? Survey evidence from the United Kingdom and Australia"
+title: "Bell, Christopher, Ekaterina Rhodes, Zoe Long, & Colette Salemi. (2024). &quot;Do economic trade-offs matter in climate policy support? Survey evidence from the United Kingdom and Australia.&quot; <i>Energy policy</i> 197."
 collection: publications
 category: manuscripts
 permalink: /publication/2024_CLIMPOLICY_EP
-date: 2024-01-01
-venue: 'Energy Policy'
-citation: 'Bell, Christopher, Ekaterina Rhodes, Zoe Long, & Colette Salemi. (2024). &quot;Do economic trade-offs matter in climate policy support? Survey evidence from the United Kingdom and Australia.&quot; <i>Energy policy</i> 197.'
+paperurl: https://www.sciencedirect.com/science/article/pii/S0301421524004506
 ---
 
 
