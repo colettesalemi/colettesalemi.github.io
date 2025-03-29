@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025_PREJUDICE_JDE
 date: 2025-01-01
-venue: 'Journal of Development Economics'
 paperurl: https://www.sciencedirect.com/science/article/pii/S030438782500032X
+talkurl: https://www.youtube.com/watch?v=2Mp5FmJ3pOA&t=1931s&ab_channel=JointDataCenteronForcedDisplacement
 
 ---
