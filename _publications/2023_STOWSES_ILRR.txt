@@ -4,8 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023_STOWSES_ILRR
 wpurl: /files/STOWSES.pdf
-appendixurl: /files/WB_FAFO_Experiment_SI
-codeurl: https://github.com/colettesalemi/Bousquet_25_JDE_Repo
 ---
 
 
