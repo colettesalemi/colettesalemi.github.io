@@ -7,62 +7,78 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title | markdownify | remove: " " | remove: "
+" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+{% if include.type == "grid" and teaser %}
+{% endif %}
 
-    {% if include.type == "grid" and teaser %}
-      <!-- Optional grid type layout -->
-    {% endif %}
+{{ title }}
 
-    <!-- Title is no longer a link -->
-    <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}
-    </h2>
+{% if post.read_time %}
+  {% include read-time.html %}
+{% endif %}
 
-    {% if post.read_time %}
-      {% include read-time.html %}
-    {% endif %}
+{% if post.collection == 'teaching' %}
+  {{ post.type }}, {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+{% elsif post.date %}
+  {{ site.data.ui-text[site.locale].date_label | default: "Published:" }} {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+{% endif %}
 
-    {% if post.collection == 'teaching' %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    {% elsif post.date %}
-      <p>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }} {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
-    {% endif %}
+{% if post.excerpt and site.read_more != 'enabled' %}
+  {{ post.excerpt | markdownify }}
+{% elsif post.excerpt and site.read_more == 'enabled' %}
+  {{ post.excerpt | markdownify | remove: " " | remove: "
+" }}Read more
+{% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}<strong><a href="{{ base_path }}{{ post.url }}">Read more</a></strong></p>
-    {% endif %}
+{% if post.citation and post.paperurl and post.slidesurl %}
+  Recommended citation: {{ post.citation }}
+  Download Paper | Download Slides
+{% elsif post.citation and post.paperurl %}
+  Recommended citation: {{ post.citation }}
+  Download Paper
+{% elsif post.citation and post.slidesurl %}
+  Recommended citation: {{ post.citation }}
+  Download Slides
+{% elsif post.citation %}
+  Recommended citation: {{ post.citation }}
+{% elsif post.paperurl %}
+  Link to Paper
+{% elsif post.slidesurl %}
+  Download Slides
+{% endif %}
 
-    {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl %}
-      <p><a href="{{ post.paperurl }}">Link to Paper</a></p>
-    {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% endif %}
+{% if post.talkurl %}
+  Paper Talk
+{% endif %}
 
-    <!-- Added post.talkurl -->
-    {% if post.talkurl %}
-      <p><a href="{{ post.talkurl }}">Paper Talk</a></p>
-    {% endif %}
+{% if post.wpurl %}
+  Working Paper
+{% endif %}
 
-    <!-- Added post.wpurl -->
-    {% if post.wpurl %}
-      <p><a href="{{ post.wpurl }}">Working Paper</a></p>
-    {% endif %}
+<!-- New links below in the same row -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  {% if post.paperurl %}
+    <a href="{{ post.paperurl }}">Link to Paper</a>
+  {% endif %}
 
-  </article>
+  {% if post.slidesurl %}
+    <a href="{{ post.slidesurl }}">Download Slides</a>
+  {% endif %}
+
+  {% if post.lasturl %}
+    <a href="{{ post.lasturl }}">Accepted Draft</a>
+  {% endif %}
+
+  {% if post.appendixurl %}
+    <a href="{{ post.appendixurl }}">Supplemental Appendix</a>
+  {% endif %}
+
+  {% if post.codeurl %}
+    <a href="{{ post.codeurl }}">Replication Files</a>
+  {% endif %}
 </div>
