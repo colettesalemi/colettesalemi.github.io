@@ -7,8 +7,7 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: " " | remove: "
-" %}
+  {% assign title = post.title | markdownify %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
@@ -16,6 +15,7 @@
 {% if include.type == "grid" and teaser %}
 {% endif %}
 
+<!-- Title -->
 {{ title }}
 
 {% if post.read_time %}
@@ -60,25 +60,25 @@
   Working Paper
 {% endif %}
 
-<!-- New links below in the same row -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<!-- New links in one row with tab space between them -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: flex-start;">
   {% if post.paperurl %}
-    <a href="{{ post.paperurl }}">Link to Paper</a>
+    <a href="{{ post.paperurl }}" style="margin-right: 20px;">Link to Paper</a>
   {% endif %}
 
   {% if post.slidesurl %}
-    <a href="{{ post.slidesurl }}">Download Slides</a>
+    <a href="{{ post.slidesurl }}" style="margin-right: 20px;">Download Slides</a>
   {% endif %}
 
   {% if post.lasturl %}
-    <a href="{{ post.lasturl }}">Accepted Draft</a>
+    <a href="{{ post.lasturl }}" style="margin-right: 20px;">Accepted Draft</a>
   {% endif %}
 
   {% if post.appendixurl %}
-    <a href="{{ post.appendixurl }}">Supplemental Appendix</a>
+    <a href="{{ post.appendixurl }}" style="margin-right: 20px;">Supplemental Appendix</a>
   {% endif %}
 
   {% if post.codeurl %}
-    <a href="{{ post.codeurl }}">Replication Files</a>
+    <a href="{{ post.codeurl }}" style="margin-right: 20px;">Replication Files</a>
   {% endif %}
 </div>
