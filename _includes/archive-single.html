@@ -37,48 +37,53 @@
 
 {% if post.citation and post.paperurl and post.slidesurl %}
   Recommended citation: {{ post.citation }}
-  <span><a href="{{ post.paperurl }}">Link to Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></span>
+  Download Paper | Download Slides
 {% elsif post.citation and post.paperurl %}
   Recommended citation: {{ post.citation }}
-  <span><a href="{{ post.paperurl }}">Link to Paper</a></span>
+  Download Paper
 {% elsif post.citation and post.slidesurl %}
   Recommended citation: {{ post.citation }}
-  <span><a href="{{ post.slidesurl }}">Download Slides</a></span>
+  Download Slides
 {% elsif post.citation %}
   Recommended citation: {{ post.citation }}
 {% elsif post.paperurl %}
-  <a href="{{ post.paperurl }}">Link to Paper</a>
+  Link to Paper
 {% elsif post.slidesurl %}
-  <a href="{{ post.slidesurl }}">Download Slides</a>
+  Download Slides
 {% endif %}
 
 {% if post.talkurl %}
-  <a href="{{ post.talkurl }}">Paper Talk</a>
+  Paper Talk
 {% endif %}
 
 {% if post.wpurl %}
-  <a href="{{ post.wpurl }}">Working Paper</a>
+  Working Paper
 {% endif %}
 
-<!-- New links in one row with "|" separator -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: flex-start;">
+<!-- New links in one row with a pipe separator between them -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
   {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" style="margin-right: 20px;">Link to Paper</a> |
+    <a href="{{ post.paperurl }}" style="margin-right: 10px;">Link to Paper</a>
+    {% if post.talkurl or post.appendixurl or post.codeurl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
   {% endif %}
 
-  {% if post.slidesurl %}
-    <a href="{{ post.slidesurl }}" style="margin-right: 20px;">Download Slides</a> |
-  {% endif %}
-
-  {% if post.lasturl %}
-    <a href="{{ post.lasturl }}" style="margin-right: 20px;">Accepted Draft</a> |
+  {% if post.talkurl %}
+    <a href="{{ post.talkurl }}" style="margin-right: 10px;">Paper Talk</a>
+    {% if post.appendixurl or post.codeurl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
   {% endif %}
 
   {% if post.appendixurl %}
-    <a href="{{ post.appendixurl }}" style="margin-right: 20px;">Supplemental Appendix</a> |
+    <a href="{{ post.appendixurl }}" style="margin-right: 10px;">Supplemental Appendix</a>
+    {% if post.codeurl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
   {% endif %}
 
   {% if post.codeurl %}
-    <a href="{{ post.codeurl }}" style="margin-right: 20px;">Replication Files</a>
+    <a href="{{ post.codeurl }}" style="margin-right: 10px;">Replication Files</a>
   {% endif %}
 </div>
