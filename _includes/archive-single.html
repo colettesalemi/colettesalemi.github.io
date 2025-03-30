@@ -33,26 +33,47 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start;">
   {% if post.paperurl %}
     <a href="{{ post.paperurl }}" style="margin-right: 10px;">Link to Paper</a>
-    {% if post.talkurl or post.appendixurl or post.codeurl %}
+    {% if post.talkurl or post.appendixurl or post.codeurl or post.wpurl or post.mediaurl or post.lasturl %}
       <span style="margin-right: 10px;">|</span>
     {% endif %}
   {% endif %}
 
   {% if post.talkurl %}
     <a href="{{ post.talkurl }}" style="margin-right: 10px;">Paper Talk</a>
-    {% if post.appendixurl or post.codeurl %}
+    {% if post.appendixurl or post.codeurl or post.wpurl or post.mediaurl or post.lasturl %}
       <span style="margin-right: 10px;">|</span>
     {% endif %}
   {% endif %}
 
   {% if post.appendixurl %}
     <a href="{{ post.appendixurl }}" style="margin-right: 10px;">Supplemental Appendix</a>
-    {% if post.codeurl %}
+    {% if post.codeurl or post.wpurl or post.mediaurl or post.lasturl %}
       <span style="margin-right: 10px;">|</span>
     {% endif %}
   {% endif %}
 
   {% if post.codeurl %}
     <a href="{{ post.codeurl }}" style="margin-right: 10px;">Replication Files</a>
+    {% if post.wpurl or post.mediaurl or post.lasturl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
+  {% endif %}
+
+  {% if post.wpurl %}
+    <a href="{{ post.wpurl }}" style="margin-right: 10px;">Working Paper Version</a>
+    {% if post.mediaurl or post.lasturl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
+  {% endif %}
+
+  {% if post.mediaurl %}
+    <a href="{{ post.mediaurl }}" style="margin-right: 10px;">Media</a>
+    {% if post.lasturl %}
+      <span style="margin-right: 10px;">|</span>
+    {% endif %}
+  {% endif %}
+
+  {% if post.lasturl %}
+    <a href="{{ post.lasturl }}" style="margin-right: 10px;">Accepted Draft</a>
   {% endif %}
 </div>
