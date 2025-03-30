@@ -3,7 +3,7 @@ title: "Chapters in LMPS Book Series"
 collection: publications
 category: book_chapter
 permalink: /publication/2018_LMPS
-excerpt: 'LMPS books are descriptive reports documenting trends in Labor Market Panel Surveys collected in Arabic speaking countries. They are not peer reviewed. I have coauthored chapters in **The Jordanian Labor Market: Between Fragility and Resilience (2019)** and **The Egyptian Labor Market: A Focus on Gender and Vulnerability (2022)**, both published by OUP and co-edited by Ragui Assaad and Caroline Krafft.'
+excerpt: 'LMPS books are descriptive reports documenting trends in Labor Market Panel Surveys collected in Arabic speaking countries. They are not peer reviewed. I have coauthored chapters in *The Jordanian Labor Market: Between Fragility and Resilience (2019)* and *The Egyptian Labor Market: A Focus on Gender and Vulnerability (2022)*, both published by OUP and co-edited by Ragui Assaad and Caroline Krafft.'
 ---
 
 # Chapters in LMPS Book Series
