@@ -3,7 +3,7 @@ title: "Pellicier, Miquel, Ragui Assaad, Caroline Krafft, & Colette Salemi. (202
 collection: publications
 category: manuscripts
 permalink: /publication/2020_Grievances_Skills_IPSR
-wpurl: GRIEVANCES_WP
+wpurl: /files/GRIEVANCES_WP.pdf
 ---
 
 

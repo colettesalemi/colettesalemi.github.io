@@ -3,7 +3,7 @@ title: "Salemi, Colette, Jay Bowman, and Jennifer Compton. (2018). &quot;Service
 collection: publications
 category: book_chapter
 permalink: /publication/2018_SCAN_ERF
-paperurl: SCAN_Jordan
+paperurl: /files/SCAN_Jordan.pdf
 ---
 
 
