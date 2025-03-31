@@ -1,5 +1,5 @@
 ---
-title: "Salemi, Colette. (2021). &quot;Refugee camps and deforestation in sub-Saharan Africa.&quot; <i>Journal of Development Economics </i> 152."
+title: "<b>Salemi, Colette</b>. (2021). &quot;Refugee camps and deforestation in sub-Saharan Africa.&quot; <i>Journal of Development Economics </i> 152."
 collection: publications
 category: manuscripts
 permalink: /publication/2021_Refugees_Deforestation_JDE

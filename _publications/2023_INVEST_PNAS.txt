@@ -1,5 +1,5 @@
 ---
-title: "Johnson, Justin A., Uris Lantz Baldos, Erwin Corong, Thomas Hertel, Stephen Polasky, Raffaello Cervigni, Toby Roxburgh, Giovanni Ruta, Colette Salemi, & Sumil Thakrar. (2023). &quot;Investing in nature can improve equity and economic returns.&quot; <i>Proceedings of the National Academy of Sciences </i> 120(27)."
+title: "Johnson, Justin A., Uris Lantz Baldos, Erwin Corong, Thomas Hertel, Stephen Polasky, Raffaello Cervigni, Toby Roxburgh, Giovanni Ruta, <b>Colette Salemi</b>, & Sumil Thakrar. (2023). &quot;Investing in nature can improve equity and economic returns.&quot; <i>Proceedings of the National Academy of Sciences </i> 120(27)."
 collection: publications
 category: manuscripts
 permalink: /publication/2023_INVEST_PNAS

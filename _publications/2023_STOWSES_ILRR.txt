@@ -1,5 +1,5 @@
 ---
-title: "Assaad, Ragui, Caroline Krafft, & Colette Salemi. (2023). &quot;Socioeconomic status and the changing nature of school-to-work transitions in Egypt, Jordan, and Tunisia.&quot; <i>Industrial and Labor Relations Review </i> 76(4)."
+title: "Assaad, Ragui, Caroline Krafft, & <b>Colette Salemi</b>. (2023). &quot;Socioeconomic status and the changing nature of school-to-work transitions in Egypt, Jordan, and Tunisia.&quot; <i>Industrial and Labor Relations Review </i> 76(4)."
 collection: publications
 category: manuscripts
 permalink: /publication/2023_STOWSES_ILRR

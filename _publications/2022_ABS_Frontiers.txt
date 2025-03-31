@@ -1,5 +1,5 @@
 ---
-title: "Johnson, Justin A. & Colette Salemi. (2022). &quot;Agents on a landscape: Simulating spatial and temporal interactions in economic and ecological systems.&quot; <i>Frontiers in Ecology and Evolution </i> 10."
+title: "Johnson, Justin A. & <b>Colette Salemi</b>. (2022). &quot;Agents on a landscape: Simulating spatial and temporal interactions in economic and ecological systems.&quot; <i>Frontiers in Ecology and Evolution </i> 10."
 collection: publications
 category: manuscripts
 permalink: /publication/2022_ABS_Frontiers

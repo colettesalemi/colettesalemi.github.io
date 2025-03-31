@@ -1,5 +1,5 @@
 ---
-title: "Dampha, Nfamara K., Colette Salemi, Wendy Rappeport, Stephen Polasky, & Amare Gebre Egziabher. (2022). &quot;Climate resilience development in Rwanda: Evaluating refugees and host populations' vulnerability to climate-induced risks &quot; <i>Forced Migration Review </i> 69."
+title: "Dampha, Nfamara K., <b>Colette Salemi</b>, Wendy Rappeport, Stephen Polasky, & Amare Gebre Egziabher. (2022). &quot;Climate resilience development in Rwanda: Evaluating refugees and host populations' vulnerability to climate-induced risks &quot; <i>Forced Migration Review </i> 69."
 collection: publications
 category: manuscripts
 permalink: /publication/2022_Rwanda_Climate_FMR
