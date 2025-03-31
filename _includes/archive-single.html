@@ -4,14 +4,14 @@
   {% assign title = post.title %}
 {% endif %}
 
-<!-- Display title without a link (no hyperlink) -->
+<!-- Title, without making it a link -->
 <h1>{{ title }}</h1>
 
 {% if post.excerpt %}
   <p>{{ post.excerpt }}</p>
 {% endif %}
 
-<!-- Render the detailed content under the title (No markdownify here to avoid unintended formatting) -->
+<!-- Render detailed content below the title without applying markdown formatting -->
 <div class="content">
   {{ post.content }}
 </div>
