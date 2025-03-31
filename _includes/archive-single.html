@@ -1,5 +1,5 @@
 {% if post.id %}
-  {% assign title = post.title | markdownify %}
+  {% assign title = post.title %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
@@ -8,12 +8,12 @@
 <h1>{{ title }}</h1>
 
 {% if post.excerpt %}
-  <p>{{ post.excerpt | markdownify }}</p>
+  <p>{{ post.excerpt }}</p>
 {% endif %}
 
-<!-- Render the detailed content under the title -->
+<!-- Render the detailed content under the title (No markdownify here to avoid unintended formatting) -->
 <div class="content">
-  {{ post.content | markdownify }} <!-- This renders the content from the front matter directly below the title -->
+  {{ post.content }}
 </div>
 
 <!-- Links in one row with pipe separator -->
