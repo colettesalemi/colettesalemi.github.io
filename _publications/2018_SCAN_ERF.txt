@@ -1,5 +1,5 @@
 ---
-title: "Salemi, Colette, Jay Bowman, and Jennifer Compton. (2018). &quot;Services for Syrian refugee children and youth in Jordan: Forced displacement, foreign aid, and vulnerability.</i> Economic Research Forum Working aper Series 1188"
+title: "<b>Salemi, Colette</b>, Jay Bowman, and Jennifer Compton. (2018). &quot;Services for Syrian refugee children and youth in Jordan: Forced displacement, foreign aid, and vulnerability.</i> Economic Research Forum Working aper Series 1188 </i>"
 collection: publications
 category: book_chapter
 permalink: /publication/2018_SCAN_ERF
