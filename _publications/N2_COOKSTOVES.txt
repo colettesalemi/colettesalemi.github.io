@@ -1,5 +1,5 @@
 ---
-title: "2. Sebastian Anti, Abubakr Ayesh, and <b>Colette Salemi</b> &quot; The forest cover impacts of improved cookstoves.&quot;"
+title: "Sebastian Anti, Abubakr Ayesh, and <b>Colette Salemi</b> &quot; The forest cover impacts of improved cookstoves.&quot;"
 collection: publications
 category: work_in_progress
 excerpt: <i>We are evaluating the impacts of the Tubeho Neza large-scale improved cookstove rollout on Rwandan forest cover (2014-present). The Tubeho Neza program, undertaken by DelAgua Corp, has delivered over 1.5 million stoves to Rwandan households to date. Our study uses satellite data to examine changes on forest canopy cover in response to rollouts at the local (cell/village) level. The study will be further enriched through qualitative data collection (August 2025) with participant households, as well as insights from government and nonprofit key informants. We than DelAgua Corp. for partnering with us as well as fieldwork support services from NjordFrey.</i>

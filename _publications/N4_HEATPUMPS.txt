@@ -1,5 +1,5 @@
 ---
-title: "4. Mike Janes, <b>Colette Salemi</b>, and Marija Terry-Brownhill. &quot;Willingness-to-pay for residential heat pumps in British Columbia.&quot;"
+title: "Mike Janes, <b>Colette Salemi</b>, and Marija Terry-Brownhill. &quot;Willingness-to-pay for residential heat pumps in British Columbia.&quot;"
 collection: publications
 category: work_in_progress
 excerpt: <i>We are applying hedonic regression techniques to 20+ years of MLS listing data for the Greater Victoria Real Estate catchment area to estimate Victorians' willingness-to-pay for residential heat pump technology. We are examining variation by geographic area, unit type, and over time.</i>.
