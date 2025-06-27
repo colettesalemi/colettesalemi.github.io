@@ -1,0 +1,7 @@
+---
+title: "Angela Daly, Donn Feir, Barry Watson, and <b>Colette Salemi</b>. &quot;Indigenous Canadians' pollution exposure and its health consequences.&quot;"
+collection: publications
+category: work_in_progress
+excerpt: <i>We are matching pollution release spatial data with population data from Statistics Canada to examine levels and trends in pollution exposure for Indigenous Canadians. Future efforts will match this exposure data to health outcomes to further investigate dispararities in morbidity and mortality.</i> 
+---
+
