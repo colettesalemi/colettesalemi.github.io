@@ -1,5 +1,5 @@
 ---
-title: "Sebastian Anti, <b>Salemi, Colette</b>, Jonathan Rigberg, Karishma Silva, and Johannes Hoogeveen (2025). &quot;A New Expanded Dataset to Study Refugee Camps in sub-Saharan Africa 1999-2024."
+title: "Sebastian Anti, <b>Colette Salemi</b>, Jonathan Rigberg, Karishma Silva, and Johannes Hoogeveen (2025). &quot;A New Expanded Dataset to Study Refugee Camps in sub-Saharan Africa 1999-2024."
 collection: publications
 category: work_in_progress
 excerpt: Our team is augmenting and expanding on the African Refugee Dataset (ARD) that Sebastian Anti and I began developing in 2018. Our objective is to release the data publicly, along with a codebook and a working paper, at the end of July 2025. We are grateful for the support of the World Bank with this endeavor as well as our excellent RA Jonathan Rigberg.
