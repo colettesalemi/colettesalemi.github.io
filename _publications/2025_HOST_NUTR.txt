@@ -3,6 +3,7 @@ title: "Anti, Sebastian and <b>Colette Salemi</b>. (2025).  &quot;Hungry Hosts? 
 category: working_paper
 permalink: /publication/2025_HOST_NUTR
 wpurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222577
+first_draft: https://ageconsearch.umn.edu/record/316035/?ln=en&v=pdf
 ---
 
 
