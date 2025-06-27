@@ -5,5 +5,5 @@ collection: publications
 category: book_chapter
 permalink: /publication/2018_JLMPS_SYR
 lasturl: https://erf.org.eg/publications/syrian-refugees-in-jordan-demographics-livelihoods-education-and-health/
-
+---
 
