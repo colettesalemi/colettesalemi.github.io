@@ -86,7 +86,7 @@ publication_category:
     title: 'Works in progress'   
   book_chapter:
     title: 'Reports and book chapters'
-  work_in_progress
+  work_in_progress:
     title: 'In progress and emerging projects'
 
 # Site Settings
