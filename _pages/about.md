@@ -13,6 +13,6 @@ My research mainly focuses on two themes:
 
 <p><strong>The economics of forced displacement</strong>: the impacts of refugee camps on markets, host populations, and landscapes; environmental quality in refugee camp areas; attitudes towards refugees.
    
-**Adoption of clean technologies**: barriers to adoption as well as impacts. Currently focused on improved cookstoves and heat pumps.
+Adoption of clean technologies: barriers to adoption as well as impacts. Currently focused on improved cookstoves and heat pumps.
 
 Other ongoing projects cover a range of topics, from farmer response to locust swarms in Ethiopia to environmental justice and pollution exposure in Canada.
