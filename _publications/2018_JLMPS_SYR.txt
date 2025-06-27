@@ -3,7 +3,7 @@ title: "Krafft, Caroline, Maia Sieverding, <b>Salemi, Colette</b>, and Caitlyn K
 Health. In <i> The Jordanian Labor Market: Between Fragility and Resilience. </i>"
 collection: publications
 category: book_chapter
-permalink: /publication/2021_JLMPS_SYR
-lasturl: https://erf.org.eg/app/uploads/2018/04/1184_Final.pdf
+permalink: /publication/2018_JLMPS_SYR
+lasturl: https://erf.org.eg/publications/syrian-refugees-in-jordan-demographics-livelihoods-education-and-health/
 
 
