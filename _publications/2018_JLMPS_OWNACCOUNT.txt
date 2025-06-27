@@ -1,5 +1,5 @@
 ---
-title: "Rizk, Reham and <b>Salemi, Colette</b> (2018). &quot;Own Account Workers in Jordan: Profile and Work Characteristics. In <i> The Jordanian Labor Market: Between Fragility and Resilience. </i>"
+title: "Rizk, Reham and <b>Salemi, Colette</b> (2018). &quot;Own Account Workers in Jordan: Profile and Work Characteristics.&quot; In <i> The Jordanian Labor Market: Between Fragility and Resilience. </i>"
 collection: publications
 category: book_chapter
 permalink: /publication/2018_JLMPS_OWN_ACCUNT

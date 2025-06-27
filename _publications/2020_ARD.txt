@@ -1,6 +1,6 @@
 ---
 title: "Anti, Sebastian, <b>Salemi, Colette</b>, and Katie Wilson. (2020).  &quot;Introducing
-the African Refugee Dataset 1999-2016."
+the African Refugee Dataset 1999-2016.&quot;"
 category: working_paper												
 permalink: /publication/2020_ARD
 wpurl: /files/2020_ARD_Working_Paper.pdf

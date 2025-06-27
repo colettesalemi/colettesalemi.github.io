@@ -1,6 +1,6 @@
 ---
-title: "Krafft, Caroline, Maia Sieverding, <b>Salemi, Colette</b>, and Caitlyn Keo (2018). &quot;Syrian Refugees in Jordan: Demographics, Livelihoods, Education, and
-Health. In <i> The Jordanian Labor Market: Between Fragility and Resilience. </i>"
+title: "Krafft, Caroline, Maia Sieverding, <b>Colette Salemi</b>, and Caitlyn Keo (2018). &quot;Syrian Refugees in Jordan: Demographics, Livelihoods, Education, and
+Health.&quot; In <i> The Jordanian Labor Market: Between Fragility and Resilience. </i>"
 collection: publications
 category: book_chapter
 permalink: /publication/2018_JLMPS_SYR

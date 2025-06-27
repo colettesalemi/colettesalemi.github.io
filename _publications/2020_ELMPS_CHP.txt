@@ -1,7 +1,7 @@
 ---
 title: "Assaad, Ragui, Abdelaziz AlSharawy & <b>Salemi, Colette</b> (2021). &quot;Is the
 Egyptian Economy Creating Good Jobs? Job Creation and Economic Vulnerability
-from 1998 to 2018. In <i> The Egyptian Labor Market: A Focus on
+from 1998 to 2018.&quot; In <i> The Egyptian Labor Market: A Focus on
 Gender and Economic Vulnerability </i>"
 collection: publications
 category: book_chapter
