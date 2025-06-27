@@ -1,5 +1,5 @@
 ---
-title: "Anti, Sebastian and <b>Colette Salemi</b>. (2025).  &quot;Hungry Hosts? Refugee Camps and Host Community Child Nutrition in Sub-Saharan Africa &quot; <i>Under review at Food Policy </i>."
+title: "Anti, Sebastian and <b>Colette Salemi</b>. (2025).  &quot;Hungry Hosts? Refugee Camps and Host Community Child Nutrition in Sub-Saharan Africa &quot;."
 category: working_paper
 permalink: /publication/2025_HOST_NUTR
 wpurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222577
