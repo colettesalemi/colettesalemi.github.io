@@ -1,8 +1,7 @@
 ---
-title: "Mike Janes, <b>Colette Salemi</b>, and Marija Terry-Brownhill (2025). &quot;Willingness-to-pay for heatpump technologies in Greater Victoria, Canada."
+title: "Mike Janes, <b>Colette Salemi</b>, and Marija Terry-Brownhill. &quot; Willingness-to-pay for residential heat pumps in British Columbia."
 collection: publications
 category: work_in_progress
-excerpt: We are applying hedonic regression methods to MLS records from the Greater Victoria Real Estate Authority catchment area to estimate household willingness-to-pay for heat pump adoption. The study considers variation by property type, location, and over time. 
-
-
+excerpt: We apply hedonic regression methods to 20+ years of MLS listing data from the Greater Victoria Real Estate catchment area to estimate the willingness-to-pay for residential heat pumps. We compare results across property types, areas, and over time.
+---
 

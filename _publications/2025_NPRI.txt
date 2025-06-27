@@ -1,0 +1,9 @@
+---
+title: "Obleo Demandre, Nathaniel Hope-Tucker, and <b>Colette Salemi</b>. &quot;Trends in Canadian Industrial Toxic Release Abatement."
+collection: publications
+category: work_in_progress
+excerpt: We examine descriptive trends in toxic release across provinces, industries, and over time using the National Pollutant Release Inventory (NPRI). The study carefully considers changes in NPRI reporting requirements and focuses on Critical Air Contaminants. 
+---
+
+
+
