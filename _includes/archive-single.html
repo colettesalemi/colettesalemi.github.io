@@ -67,6 +67,13 @@
     {% endif %}
   {% endif %}
 
+  {% if post.first_draft %}
+  <a href="{{ post.first_draft }}" style="margin-right: 10px;">First version</a>
+  {% if post.mediaurl or post.lasturl %}
+    <span style="margin-right: 10px;">|</span>
+  {% endif %}
+{% endif %}
+
   {% if post.mediaurl %}
     <a href="{{ post.mediaurl }}" style="margin-right: 10px;">Media</a>
     {% if post.lasturl %}
