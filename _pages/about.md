@@ -11,7 +11,7 @@ I'm an economist working at the University of Victoria in British Columbia, Cana
 
 My research focuses on two themes:
 
-1. The economics of forced displacement: the impacts of refugee camps on markets, host populations, and landscapes; environmental quality in refugee camp areas; attitudes towards refugees. 
-2. Adoption of clean technologies: barriers to adoption as well as impacts. Currently focused on improved cookstoves and heat pumps.
+1. **The economics of forced displacement**: the impacts of refugee camps on markets, host populations, and landscapes; environmental quality in refugee camp areas; attitudes towards refugees. 
+2. **Adoption of clean technologies**: barriers to adoption as well as impacts. Currently focused on improved cookstoves and heat pumps.
 
 Other ongoing projects cover a range of topics, from farmer response to locust swarms in Ethiopia to environmental justice and pollution exposure in Canada.

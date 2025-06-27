@@ -85,7 +85,9 @@ publication_category:
   in_progress:
     title: 'Works in progress'   
   book_chapter:
-    title: 'Reports, chapters, permanent working papers'
+    title: 'Reports and book chapters'
+  work_in_progress
+    title: 'In progress and emerging projects'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

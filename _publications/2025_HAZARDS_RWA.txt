@@ -1,5 +1,5 @@
 ---
-title: "Dampha, Nfamara K., <b>Colette Salemi</b>, Steve Polasky, Amare Gebre Egziabher, and Wendy Rappeport. (2025).  &quot;Refugees and host communities' vulnerability to climate and disaster risks in Rwanda; <i>Frontiers in Climate </i> 7"
+title: "Dampha, Nfamara K., <b>Colette Salemi</b>, Steve Polasky, Amare Gebre Egziabher, and Wendy Rappeport. (2025).  &quot;Refugees and host communities' vulnerability to climate and disaster risks in Rwanda; <i>Frontiers in Climate </i> 7."
 collection: publications
 category: manuscripts
 paperurl: https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1465223/full
