@@ -3,6 +3,7 @@ title: "<b>Salemi, Colette</b>, Nfamara K. Dampha, and Justin A. Johnson. (2025)
 category: working_paper												
 permalink: /publication/2025_CB_LC
 first_draft: https://openknowledge.worldbank.org/entities/publication/08ddc0dd-35b3-521b-93bc-2ea5b68fc753
+wpurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386315
 ---
 
 
