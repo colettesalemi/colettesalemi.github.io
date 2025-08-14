@@ -1,8 +1,16 @@
 ---
+title: "<b>Salemi, Colette</b>, Nfamara K. Dampha, and Justin A. Johnson. (2025).  &quot;Rohingya Refugee Camps and Land Cover Change in Cox’s Bazar, Bangladesh."
+category: working_paper												
+permalink: /publication/2025_CB_LC
+first_draft: https://openknowledge.worldbank.org/entities/publication/08ddc0dd-35b3-521b-93bc-2ea5b68fc753
+wpurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386315
+---
+
+---
 title: "Obleo Demandre, C. Austin Davis, and <b>Colette Salemi</b>. &quot;Greenspace Proximity and Refugee Mental Health.&quot;"
 collection: publications
-category: work_in_progress
-excerpt: <i>Obleo Demandre (PhD student, University of British Columbia) undertook the first draft of this study as an undergraduate. We are working together with two waves of the Cox Bazaar Panel Survey to examine the impact of greenspace proximity on Rohingya refugee mental health in the Kutapalong Expansion Site (Cox's Bazaar, Bangladesh).</i>
+category: working_paper
+first_draft: _publications/Greenspace_RRefugee_MHealth.pdf
 ---
 
 
