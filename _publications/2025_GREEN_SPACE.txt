@@ -2,5 +2,5 @@
 title: "Obleo Demandre, C. Austin Davis, and <b>Colette Salemi</b> (2025). &quot;Greenspace Proximity and Refugee Mental Health.&quot;" 
 category: working_paper
 permalink: /files/Greenspace_RRefugee_MHealth/
-lasturl: /files/Greenspace_RRefugee_MHealth.pdf
+first_draft: /files/Greenspace_RRefugee_MHealth.pdf
 ---
