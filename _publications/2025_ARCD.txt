@@ -1,0 +1,8 @@
+---
+title: "Anti, Sebastian, <b>Colette Salemi</b>, Jonathan Rigberg, Karishma Silva, and Johannes Hoogeveen. (2025).  &quot;A New Expanded Dataset to Study Refugee Camps in
+Sub-Saharan Africa 1999–2024.&quot;"
+category: working_paper												
+permalink: /publication/2025_ARCD
+wpurl: /files/Anti_etal_2025.pdf
+---
+
