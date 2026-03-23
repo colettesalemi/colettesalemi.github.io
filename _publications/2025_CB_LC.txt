@@ -2,7 +2,7 @@
 title: "<b>Salemi, Colette</b> (2025).  &quot;Rohingya Refugee Camps and Land Cover Change in Bangladesh."
 category: working_paper												
 permalink: /publication/2025_CB_LC
-wpurl: /files/CB_LC_2025.pdf
+wpurl: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5990477
 ---
 
 
