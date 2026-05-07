@@ -3,5 +3,6 @@ title: "Anti, Sebastian, <b>Colette Salemi</b>, Jonathan Rigberg, Sofia Leopold,
 category: working_paper
 permalink: /publication/2025_ARCD
 wpurl: https://hicn.org/working-paper/442/
+lasturl	/files/ARCD_5_7_26.pdf
 ---
 
