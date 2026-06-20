@@ -1,7 +1,7 @@
 ---
-title: "Anti, Sebastian, <b>Colette Salemi</b>, Jonathan Rigberg, Sofia Leopold, Karishma Silva, and Johannes Hoogeveen. (2025). &quot;A New Expanded Dataset to Study Refugee Camps in Sub-Saharan Africa 1999–2024.&quot; <i>Revise and resubmit at World Bank Economic Review</i>."
+title: "Anti, Sebastian, <b>Colette Salemi</b>, Jonathan Rigberg, Sofia Leopold, Karishma Silva, and Johannes Hoogeveen. (2025). &quot;A New Expanded Dataset to Study Refugee Camps in Sub-Saharan Africa 1999–2024.&quot; <i>Accepted at World Bank Economic Review</i>."
 collection: publications
-category: working_paper
+category: manuscripts
 permalink: /publication/2025_ARCD
 wpurl: https://hicn.org/working-paper/442/
 mostrecent_url: /files/ARCD_5_7_26.pdf
